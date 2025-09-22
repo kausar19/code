@@ -1,0 +1,11 @@
+today
+jira ticket
+create an account
+self is 1 parameter ..even if we don't call it also it gives some value
+parameter and arguments don't have any difference
+can the parent obj access the child methods or fxns?
+super means whoever is parent it is executed twice
+can super be the line no 68 or 64?
+
+
+
